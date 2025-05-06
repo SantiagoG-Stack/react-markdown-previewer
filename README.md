@@ -1,6 +1,6 @@
 # React Markdown Previewer
 
-This is a simple react markdown previewer page created as part of the **Name Certification Certification** on freeCodeCamp.
+This is a simple react markdown previewer page created as part of the **Front End Fevelopment Libraries Certification** on freeCodeCamp.
 
 ## 🔧 Technologies Used
 
